@@ -21,17 +21,17 @@
 title: Old Bob
 description: >- # this means to ignore newlines until "baseurl:"
   Il vecchio Bob è seduto su un porticato. Si sentono solo i grilli, il cigolio della sedia e le plettrate sulla chitarra.
-  Old Bob Gunpowder è una band di Roma che suona un mix di Power Blues, Stoner e Southern Rock cantato in Italiano.
+  Gli Old Bob sono una band di Roma che suona un mix di Power Blues, Stoner e Southern Rock cantato in Italiano.
 baseurl:  # the subpath of your site, e.g. /blog
 url: https://www.oldbobgunpowderband.it # the base hostname & protocol for your site, e.g. http://example.com
 email: oldbobgunpowderband.info@gmail.com
-facebook: https://www.facebook.com/oldbobgunpowderband
-tiktok: https://www.tiktok.com/@oldbobgunpowderband
-instagram: https://www.instagram.com/oldbobgunpowderband/
+facebook: https://www.facebook.com/oldbobband
+tiktok: https://www.tiktok.com/@oldbob_band
+instagram: https://www.instagram.com/oldbob_band/
 youtube: https://www.youtube.com/channel/UC3ZiABarsYb2TvxmmZp6h4w
 soundcloud: https://soundcloud.com/oldbobgunpowderband
-bandcamp: https://oldbobgunpowder.bandcamp.com/
-spotify: https://open.spotify.com/artist/7cNFuZ7IMqzLwDFqCKfKg8?si=dmPMsNVkScyp4xTcFck_jQ
+bandcamp: https://oldbob.bandcamp.com/
+spotify: https://open.spotify.com/intl-it/artist/0CuLLkHuuGhzGUvtHMVddy?si=5zX4pXFSRdOGgliyMP2whw
 
 plugins:
   - jekyll-multiple-languages-plugin
